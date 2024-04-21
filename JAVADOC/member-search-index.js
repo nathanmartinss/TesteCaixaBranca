@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"User","l":"conectaBD()"},{"p":"org.example","c":"User","l":"testaUsuario(String, String)","u":"testaUsuario(java.lang.String,java.lang.String)"},{"p":"org.example","c":"User","l":"User()","u":"%3Cinit%3E()"}];updateSearchResults();
